@@ -1,0 +1,1 @@
+{ "version":"0.0.1","configurations":[{"name":"appart","runtimeExecutable":"python3","runtimeArgs":["-m","http.server","4630"],"port":4630}]}
